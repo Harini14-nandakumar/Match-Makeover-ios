@@ -1,0 +1,31 @@
+{
+  "error": {
+    "code": 503,
+    "message": "The model is overloaded. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: API key not valid. Please pass a valid API key.
+Gemini API Error: API key not valid. Please pass a valid API key.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: The model is overloaded. Please try again later.
+Gemini API Error: Unknown API error
+Gemini API Error: The model is overloaded. Please try again later.
